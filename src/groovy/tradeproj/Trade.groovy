@@ -1,7 +1,11 @@
 package tradeproj
+
+import groovy.transform.AutoClone
+
 /**
  * Created by bkishore on 12/29/2017.
  */
+@AutoClone
 class Trade {
     def tradeDate
     def tradeTime

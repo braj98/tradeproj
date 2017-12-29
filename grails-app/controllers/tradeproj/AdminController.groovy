@@ -25,13 +25,15 @@ class AdminController {
     def uploadTradeExcel = {
         try {
             def file = request.getFile('file')
-            adminService.processTradeData(file)
+            List<Trade> trades = adminService.processTradeData(file)
+            render(view: "trade",  model: [tradeList:trades])
+            return false
         } catch (Exception e) {
             e.printStackTrace()
             println("exiting")
         }
 
-        redirect(action: 'index')
+        //redirect(action: 'index')
         return false
     }
 

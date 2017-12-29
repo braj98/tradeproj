@@ -41,12 +41,69 @@ class AdminService {
             println("\n-------------------------------\n")
             println(tradeObjList)
             println("\n-------------------------------\n")
-
-            generateReport(tradeList)
+            def tradeObjectGroupByDate = tradeObjList.groupBy {it.tradeDate}
+            List<Trade> eqTradeObjList = new ArrayList<>()
+            tradeObjectGroupByDate.each {tDate, tObjectList ->
+                List<Trade> tempList = tObjectList
+                if(tObjectList.size()>1){
+                    tempList = getEquivalentTradeForTheDay(tObjectList)
+                }
+                eqTradeObjList.addAll(tempList)
+            }
+            println("$tradeObjectGroupByDate\n--------------GroupByDate above-----------------\n")
+            //generateReport(tradeList)
+            generateReport(eqTradeObjList)
         } catch (Exception e) {
             e.printStackTrace()
             println("exiting")
         }
+    }
+
+    List<Trade> getEquivalentTradeForTheDay(List<Trade> tradeObjList){
+        int buyQuantity = tradeObjList.sum {
+            if(it.type == Trade.TRADETYPE.BUY.toString()){
+                it.qty
+            }else{
+                0
+            }
+        }
+
+        int sellQuantity = tradeObjList.sum {
+            if(it.type == Trade.TRADETYPE.BUY.toString()){
+                0
+            }else{
+                it.qty
+            }
+        }
+        println(buyQuantity)
+        println(sellQuantity)
+
+        if(buyQuantity >sellQuantity){
+            return createList(buyQuantity-sellQuantity, 'B', tradeObjList)
+        }else if(sellQuantity>buyQuantity){
+            return createList(sellQuantity - buyQuantity, 'S', tradeObjList)
+        }else{
+            return new ArrayList<Trade>()
+        }
+    }
+
+    List<Trade> createList(int quantityToCollect, String type,  List<Trade> tradeObjList){
+        List<Trade> resultList = new ArrayList<>()
+        for(int i=tradeObjList.size()-1; i>=0 && quantityToCollect>0; i--){
+            Trade t = tradeObjList.get(i)
+
+            if (t.type == type) {
+                if(quantityToCollect>t.qty){
+
+                    quantityToCollect = quantityToCollect - t.qty
+                }else{
+                    t.qty = quantityToCollect
+                    quantityToCollect = 0
+                }
+                resultList.add(t)
+            }
+        }
+        return resultList
     }
 
     def generateReport(List<Trade> tradeObjList) {
@@ -55,6 +112,9 @@ class AdminService {
         double totalPrice = 0
         def curTradeDate = null
         tradeObjList.each {
+            if(curTradeDate != null && curTradeDate != it.tradeDate ){
+
+            }
             if (it.type == Trade.TRADETYPE.BUY.toString()) {
                 buyTradeList.add(it.clone())
                 totalPrice = totalPrice + (it.qty * it.rate)
@@ -88,7 +148,9 @@ class AdminService {
         }
         println("\n-------------Report Summary------------------\n")
         tradeObjList.each { println(it) }
+
         println("\n-------------------------------\n")
+        return tradeObjList
     }
 }
 
