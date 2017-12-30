@@ -9,6 +9,5 @@ pipelines:
   default:
     - step:
         script:
-          - npm install
-          - npm test
+          - grails test-app -unit
           - git push https://heroku:$HEROKU_API_KEY@git.heroku.com/$HEROKU_APP_NAME.git HEAD
