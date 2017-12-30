@@ -2,759 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="74643ccc-f889-4797-9e37-7de45a977dcb" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ApplicationResources$_run_closure1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ApplicationResources$_run_closure1_closure2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ApplicationResources.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/BootStrap$_closure1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/BootStrap$_closure2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/BootStrap.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/BuildConfig$_run_closure1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/BuildConfig$_run_closure1_closure2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/BuildConfig$_run_closure1_closure3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/BuildConfig$_run_closure1_closure4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/BuildConfig$_run_closure1_closure5.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/BuildConfig.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Config$_run_closure1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Config$_run_closure1_closure4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Config$_run_closure1_closure4_closure5.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Config$_run_closure1_closure4_closure5_closure7.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Config$_run_closure1_closure4_closure6.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Config$_run_closure2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Config$_run_closure2_closure8.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Config$_run_closure2_closure9.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Config$_run_closure3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/Config.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/DataSource$_run_closure1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/DataSource$_run_closure2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/DataSource$_run_closure3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/DataSource$_run_closure3_closure4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/DataSource$_run_closure3_closure4_closure7.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/DataSource$_run_closure3_closure5.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/DataSource$_run_closure3_closure5_closure8.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/DataSource$_run_closure3_closure6.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/DataSource$_run_closure3_closure6_closure9.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/DataSource$_run_closure3_closure6_closure9_closure10.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/DataSource.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/UrlMappings$__clinit__closure1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/UrlMappings$__clinit__closure1_closure2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/UrlMappings$__clinit__closure1_closure2_closure3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/UrlMappings.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/application.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/resources$_run_closure1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/resources.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/tradeproj/AdminController$_closure1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/tradeproj/AdminController$_closure2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/tradeproj/AdminController$_closure3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/tradeproj/AdminController.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/tradeproj/AdminService$_$tt__generateReport_closure10.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/tradeproj/AdminService$_$tt__generateReport_closure11.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/tradeproj/AdminService$_$tt__getEquivalentTradeForTheDay_closure8.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/tradeproj/AdminService$_$tt__getEquivalentTradeForTheDay_closure9.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/tradeproj/AdminService$_$tt__processTradeData_closure5.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/tradeproj/AdminService$_$tt__processTradeData_closure6.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/tradeproj/AdminService$_$tt__processTradeData_closure7.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/tradeproj/AdminService$_createList_closure3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/tradeproj/AdminService$_generateReport_closure4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/tradeproj/AdminService$_getEquivalentTradeForTheDay_closure2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/tradeproj/AdminService$_processTradeData_closure1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/tradeproj/AdminService.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/tradeproj/Trade$TRADETYPE.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/tradeproj/Trade.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-build-classes/TomcatGrailsPlugin.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-build-classes/org/grails/plugins/tomcat/InlineExplodedTomcatServer$_preStart_closure1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-build-classes/org/grails/plugins/tomcat/InlineExplodedTomcatServer$_preStart_closure1_closure2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-build-classes/org/grails/plugins/tomcat/InlineExplodedTomcatServer.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-build-classes/org/grails/plugins/tomcat/ParentDelegatingClassLoader.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-build-classes/org/grails/plugins/tomcat/TomcatKillSwitch.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-build-classes/org/grails/plugins/tomcat/TomcatLoader.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-build-classes/org/grails/plugins/tomcat/TomcatServer$_closure1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-build-classes/org/grails/plugins/tomcat/TomcatServer.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-build-classes/org/grails/plugins/tomcat/TomcatServerFactory.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-build-classes/org/grails/plugins/tomcat/fork/ForkedTomcatServer$_findSystemClasspathJars_closure2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-build-classes/org/grails/plugins/tomcat/fork/ForkedTomcatServer$_startSecure_closure1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-build-classes/org/grails/plugins/tomcat/fork/ForkedTomcatServer$_startSecure_closure1_closure3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-build-classes/org/grails/plugins/tomcat/fork/ForkedTomcatServer.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-build-classes/org/grails/plugins/tomcat/fork/TomcatDevelopmentRunner.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-build-classes/org/grails/plugins/tomcat/fork/TomcatExecutionContext$_buildMinimalIsolatedClasspath_closure1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-build-classes/org/grails/plugins/tomcat/fork/TomcatExecutionContext.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-build-classes/org/grails/plugins/tomcat/fork/TomcatWarRunner.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/CacheGrailsPlugin$_closure1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/CacheGrailsPlugin$_closure1_closure6.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/CacheGrailsPlugin$_closure1_closure6_closure8.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/CacheGrailsPlugin$_closure1_closure6_closure8_closure9.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/CacheGrailsPlugin$_closure1_closure7.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/CacheGrailsPlugin$_closure1_closure7_closure10.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/CacheGrailsPlugin$_closure2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/CacheGrailsPlugin$_closure2_closure11.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/CacheGrailsPlugin$_closure2_closure12.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/CacheGrailsPlugin$_closure3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/CacheGrailsPlugin$_closure4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/CacheGrailsPlugin$_closure5.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/CacheGrailsPlugin.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/DatabaseMigrationGrailsPlugin$_closure1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/DatabaseMigrationGrailsPlugin$_closure2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/DatabaseMigrationGrailsPlugin.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/DbdocUrlMappings$__clinit__closure1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/DbdocUrlMappings.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/DefaultCacheConfig$_run_closure1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/DefaultCacheConfig$_run_closure1_closure2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/DefaultCacheConfig$_run_closure1_closure3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/DefaultCacheConfig.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/DefaultWebXmlConfig$_run_closure1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/DefaultWebXmlConfig.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/ExcelExportGrailsPlugin$_closure1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/ExcelExportGrailsPlugin$_closure2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/ExcelExportGrailsPlugin$_closure3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/ExcelExportGrailsPlugin$_closure4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/ExcelExportGrailsPlugin$_closure5.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/ExcelExportGrailsPlugin$_closure6.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/ExcelExportGrailsPlugin$_closure7.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/ExcelExportGrailsPlugin.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/ExcelImportGrailsPlugin$_closure1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/ExcelImportGrailsPlugin$_closure2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/ExcelImportGrailsPlugin$_closure3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/ExcelImportGrailsPlugin$_closure4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/ExcelImportGrailsPlugin$_closure5.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/ExcelImportGrailsPlugin$_closure6.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/ExcelImportGrailsPlugin.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/ExecutorGrailsPlugin$_addAsyncMethods_closure4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/ExecutorGrailsPlugin$_addAsyncMethods_closure5.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/ExecutorGrailsPlugin$_addAsyncMethods_closure6.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/ExecutorGrailsPlugin$_closure1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/ExecutorGrailsPlugin$_closure1_closure7.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/ExecutorGrailsPlugin$_closure2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/ExecutorGrailsPlugin$_closure3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/ExecutorGrailsPlugin.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/ExportConfig.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/ExportGrailsPlugin$_closure1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/ExportGrailsPlugin$_closure2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/ExportGrailsPlugin$_closure2_closure8.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/ExportGrailsPlugin$_closure2_closure8_closure9.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/ExportGrailsPlugin$_closure3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/ExportGrailsPlugin$_closure4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/ExportGrailsPlugin$_closure5.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/ExportGrailsPlugin$_closure6.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/ExportGrailsPlugin$_closure7.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/ExportGrailsPlugin.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/ExportResources$_run_closure1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/ExportResources$_run_closure1_closure2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/ExportResources.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/HibernateGrailsPlugin.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/JQueryConfig$_run_closure1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/JQueryConfig.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/JQueryPluginResources$_run_closure1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/JQueryPluginResources$_run_closure1_closure2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/JQueryPluginResources$_run_closure1_closure3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/JQueryPluginResources.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/JQueryResourceTagLib$_closure1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/JQueryResourceTagLib$_closure2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/JQueryResourceTagLib$_closure2_closure4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/JQueryResourceTagLib$_closure2_closure5.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/JQueryResourceTagLib$_closure2_closure6.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/JQueryResourceTagLib$_closure2_closure7.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/JQueryResourceTagLib$_closure3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/JQueryResourceTagLib.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/JQueryService$_closure1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/JQueryService$_closure2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/JQueryService$_closure3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/JQueryService$_closure4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/JQueryService.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/JQueryTagLib$_closure1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/JQueryTagLib$_closure1_closure6.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/JQueryTagLib$_closure2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/JQueryTagLib$_closure3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/JQueryTagLib$_closure4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/JQueryTagLib$_closure5.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/JQueryTagLib.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/JqueryGrailsPlugin$_closure1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/JqueryGrailsPlugin$_closure2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/JqueryGrailsPlugin$_closure2_closure3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/JqueryGrailsPlugin$_closure2_closure3_closure4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/JqueryGrailsPlugin.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/ResourcesBootStrap$_closure1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/ResourcesBootStrap$_closure2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/ResourcesBootStrap.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/ResourcesGrailsPlugin$_closure1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/ResourcesGrailsPlugin$_closure1_closure10.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/ResourcesGrailsPlugin$_closure1_closure9.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/ResourcesGrailsPlugin$_closure2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/ResourcesGrailsPlugin$_closure2_closure11.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/ResourcesGrailsPlugin$_closure2_closure11_closure13.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/ResourcesGrailsPlugin$_closure2_closure11_closure13_closure14.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/ResourcesGrailsPlugin$_closure2_closure11_closure13_closure14_closure15.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/ResourcesGrailsPlugin$_closure2_closure11_closure13_closure14_closure15_closure16.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/ResourcesGrailsPlugin$_closure2_closure12.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/ResourcesGrailsPlugin$_closure2_closure12_closure17.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/ResourcesGrailsPlugin$_closure2_closure12_closure17_closure18.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/ResourcesGrailsPlugin$_closure2_closure12_closure17_closure18_closure19.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/ResourcesGrailsPlugin$_closure3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/ResourcesGrailsPlugin$_closure4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/ResourcesGrailsPlugin$_closure4_closure20.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/ResourcesGrailsPlugin$_closure4_closure21.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/ResourcesGrailsPlugin$_closure4_closure22.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/ResourcesGrailsPlugin$_closure5.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/ResourcesGrailsPlugin$_handleChange_closure8.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/ResourcesGrailsPlugin$_isResourceWeShouldProcess_closure6.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/ResourcesGrailsPlugin$_triggerReload_closure7.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/ResourcesGrailsPlugin.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/ScaffoldingGrailsPlugin$_closure1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/ScaffoldingGrailsPlugin$_closure1_closure8.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/ScaffoldingGrailsPlugin$_closure1_closure9.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/ScaffoldingGrailsPlugin$_closure2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/ScaffoldingGrailsPlugin$_closure3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/ScaffoldingGrailsPlugin$_configureScaffoldingController_closure4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/ScaffoldingGrailsPlugin$_getScaffoldedActions_closure5.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/ScaffoldingGrailsPlugin$_getScaffoldedActions_closure6.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/ScaffoldingGrailsPlugin$_getScaffoldedActions_closure7.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/ScaffoldingGrailsPlugin.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/WebxmlGrailsPlugin$_closure1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/WebxmlGrailsPlugin$_closure1_closure2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/WebxmlGrailsPlugin$_closure1_closure2_closure8.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/WebxmlGrailsPlugin$_closure1_closure2_closure8_closure9.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/WebxmlGrailsPlugin$_closure1_closure3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/WebxmlGrailsPlugin$_closure1_closure3_closure10.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/WebxmlGrailsPlugin$_closure1_closure4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/WebxmlGrailsPlugin$_closure1_closure4_closure11.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/WebxmlGrailsPlugin$_closure1_closure5.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/WebxmlGrailsPlugin$_closure1_closure5_closure12.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/WebxmlGrailsPlugin$_closure1_closure5_closure12_closure13.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/WebxmlGrailsPlugin$_closure1_closure6.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/WebxmlGrailsPlugin$_closure1_closure6_closure14.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/WebxmlGrailsPlugin$_closure1_closure7.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/WebxmlGrailsPlugin.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/de/andreasschmitt/export/ExportService.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/de/andreasschmitt/export/ExportTagLib$_closure1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/de/andreasschmitt/export/ExportTagLib$_closure1_closure3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/de/andreasschmitt/export/ExportTagLib$_closure1_closure3_closure4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/de/andreasschmitt/export/ExportTagLib$_closure1_closure3_closure4_closure5.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/de/andreasschmitt/export/ExportTagLib$_closure2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/de/andreasschmitt/export/ExportTagLib.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/de/andreasschmitt/export/builder/ExcelBuilder$_createNode_closure1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/de/andreasschmitt/export/builder/ExcelBuilder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/de/andreasschmitt/export/exporter/AbstractExporter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/de/andreasschmitt/export/exporter/DefaultCSVExporter$_exportData_closure1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/de/andreasschmitt/export/exporter/DefaultCSVExporter$_exportData_closure2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/de/andreasschmitt/export/exporter/DefaultCSVExporter$_exportData_closure2_closure3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/de/andreasschmitt/export/exporter/DefaultCSVExporter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/de/andreasschmitt/export/exporter/DefaultExcelExporter$_exportData_closure1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/de/andreasschmitt/export/exporter/DefaultExcelExporter$_exportData_closure1_closure2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/de/andreasschmitt/export/exporter/DefaultExcelExporter$_exportData_closure1_closure2_closure3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/de/andreasschmitt/export/exporter/DefaultExcelExporter$_exportData_closure1_closure2_closure3_closure4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/de/andreasschmitt/export/exporter/DefaultExcelExporter$_exportData_closure1_closure2_closure3_closure5.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/de/andreasschmitt/export/exporter/DefaultExcelExporter$_exportData_closure1_closure2_closure3_closure6.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/de/andreasschmitt/export/exporter/DefaultExcelExporter$_exportData_closure1_closure2_closure3_closure6_closure7.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/de/andreasschmitt/export/exporter/DefaultExcelExporter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/de/andreasschmitt/export/exporter/DefaultExporterFactory.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/de/andreasschmitt/export/exporter/DefaultODSExporter$_exportData_closure1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/de/andreasschmitt/export/exporter/DefaultODSExporter$_exportData_closure2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/de/andreasschmitt/export/exporter/DefaultODSExporter$_exportData_closure2_closure3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/de/andreasschmitt/export/exporter/DefaultODSExporter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/de/andreasschmitt/export/exporter/DefaultPDFExporter$_exportData_closure1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/de/andreasschmitt/export/exporter/DefaultPDFExporter$_exportData_closure2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/de/andreasschmitt/export/exporter/DefaultPDFExporter$_exportData_closure2_closure5.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/de/andreasschmitt/export/exporter/DefaultPDFExporter$_exportData_closure3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/de/andreasschmitt/export/exporter/DefaultPDFExporter$_exportData_closure4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/de/andreasschmitt/export/exporter/DefaultPDFExporter$_exportData_closure4_closure6.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/de/andreasschmitt/export/exporter/DefaultPDFExporter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/de/andreasschmitt/export/exporter/DefaultRTFExporter$_exportData_closure1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/de/andreasschmitt/export/exporter/DefaultRTFExporter$_exportData_closure2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/de/andreasschmitt/export/exporter/DefaultRTFExporter$_exportData_closure3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/de/andreasschmitt/export/exporter/DefaultRTFExporter$_exportData_closure3_closure4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/de/andreasschmitt/export/exporter/DefaultRTFExporter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/de/andreasschmitt/export/exporter/DefaultXMLExporter$_build_closure1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/de/andreasschmitt/export/exporter/DefaultXMLExporter$_build_closure1_closure2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/de/andreasschmitt/export/exporter/DefaultXMLExporter$_build_closure1_closure2_closure3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/de/andreasschmitt/export/exporter/DefaultXMLExporter$_build_closure1_closure2_closure3_closure4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/de/andreasschmitt/export/exporter/DefaultXMLExporter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/de/andreasschmitt/export/exporter/Exporter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/de/andreasschmitt/export/exporter/ExporterFactory.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/de/andreasschmitt/export/exporter/ExporterNotFoundException.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/de/andreasschmitt/export/exporter/ExporterUtil$_getFields_closure1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/de/andreasschmitt/export/exporter/ExporterUtil$_getFields_closure2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/de/andreasschmitt/export/exporter/ExporterUtil$_getFields_closure3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/de/andreasschmitt/export/exporter/ExporterUtil.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/de/andreasschmitt/export/exporter/ExportingException.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/de/andreasschmitt/export/taglib/util/RenderUtils.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/cache/BlockingCache.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/cache/CacheBeanPostProcessor.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/cache/CacheConfigArtefactHandler$CacheConfigGrailsClass.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/cache/CacheConfigArtefactHandler$DefaultCacheConfigGrailsClass.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/cache/CacheConfigArtefactHandler.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/cache/CacheConfiguration.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/cache/CacheEvict.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/cache/CachePut.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/cache/CacheTagLib$_closure1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/cache/CacheTagLib$_closure2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/cache/CacheTagLib.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/cache/Cacheable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/cache/ConfigBuilder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/cache/ConfigLoader$_sortConfigs_closure1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/cache/ConfigLoader.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/cache/CustomCacheKeyGenerator.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/cache/GrailsAnnotationCacheOperationSource$DefaultCacheKey.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/cache/GrailsAnnotationCacheOperationSource.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/cache/GrailsCache.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/cache/GrailsCacheAdminService.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/cache/GrailsCacheManager.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/cache/GrailsConcurrentMapCache.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/cache/GrailsConcurrentMapCacheManager.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/cache/GrailsValueWrapper.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/cache/SerializableByteArrayOutputStream.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/cache/SerializableOutputStream.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/cache/Timer.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/cache/compiler/CacheTransformation.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/cache/util/ClassUtils.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/cache/web/AlreadyGzippedException.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/cache/web/ContentCacheParameters.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/cache/web/GenericResponseWrapper$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/cache/web/GenericResponseWrapper.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/cache/web/Header$Type.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/cache/web/Header.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/cache/web/HttpDateFormatter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/cache/web/PageInfo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/cache/web/ProxyAwareMixedGrailsControllerHelper.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/cache/web/SerializableCookie.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/cache/web/filter/AbstractFilter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/cache/web/filter/CacheExpressionRootObject.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/cache/web/filter/CacheOperationContext.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/cache/web/filter/DefaultWebKeyGenerator.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/cache/web/filter/ExpressionEvaluator.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/cache/web/filter/FilterServletOutputStream.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/cache/web/filter/LazyParamAwareEvaluationContext.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/cache/web/filter/NoOpFilter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/cache/web/filter/PageFragmentCachingFilter$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/cache/web/filter/PageFragmentCachingFilter$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/cache/web/filter/PageFragmentCachingFilter$CacheStatus.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/cache/web/filter/PageFragmentCachingFilter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/cache/web/filter/WebKeyGenerator.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/cache/web/filter/simple/MemoryBlockingCache.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/cache/web/filter/simple/MemoryCacheConfiguration.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/cache/web/filter/simple/MemoryPageFragmentCachingFilter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/databasemigration/ChangelogXml2Groovy$_appendAttrs_closure1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/databasemigration/ChangelogXml2Groovy$_appendWithIndent_closure2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/databasemigration/ChangelogXml2Groovy.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/databasemigration/DbdocController$_closure1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/databasemigration/DbdocController.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/databasemigration/DslBuilder$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/databasemigration/DslBuilder$_expandExpressions_closure1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/databasemigration/DslBuilder$_extractZipFile_closure3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/databasemigration/DslBuilder$_handleIncludedChangeLog_closure7.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/databasemigration/DslBuilder$_processIncludeAll_closure2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/databasemigration/DslBuilder$_processProperty_closure5.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/databasemigration/DslBuilder$_processRollback_closure4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/databasemigration/DslBuilder$_setPropertiesFromAttributes_closure6.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/databasemigration/DslBuilder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/databasemigration/GormColumn$_isIdentityColumn_closure1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/databasemigration/GormColumn.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/databasemigration/GormDatabase.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/databasemigration/GormDatabaseSnapshotGenerator$_createIdentifierGenerator_closure8.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/databasemigration/GormDatabaseSnapshotGenerator$_createSnapshot_closure1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/databasemigration/GormDatabaseSnapshotGenerator$_createSnapshot_closure2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/databasemigration/GormDatabaseSnapshotGenerator$_filterSnapshot_closure3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/databasemigration/GormDatabaseSnapshotGenerator$_filterSnapshot_closure3_closure9.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/databasemigration/GormDatabaseSnapshotGenerator$_filterSnapshot_closure4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/databasemigration/GormDatabaseSnapshotGenerator$_filterSnapshot_closure5.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/databasemigration/GormDatabaseSnapshotGenerator$_filterSnapshot_closure6.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/databasemigration/GormDatabaseSnapshotGenerator$_filterSnapshot_closure7.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/databasemigration/GormDatabaseSnapshotGenerator.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/databasemigration/GormDatabaseTypeConverter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/databasemigration/GormDiff.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/databasemigration/GrailsChange$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/databasemigration/GrailsChange.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/databasemigration/GrailsChangeLogParser$_setChangelogProperties_closure1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/databasemigration/GrailsChangeLogParser.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/databasemigration/GrailsClassLoaderResourceAccessor.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/databasemigration/GrailsDiffStatusListener.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/databasemigration/GrailsPrecondition$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/databasemigration/GrailsPrecondition.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/databasemigration/GroovyAwareStringChangeLogSerializer.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/databasemigration/HibernateAwareTypeConverter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/databasemigration/MigrationRunner$_autoRun_closure1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/databasemigration/MigrationRunner$_autoRun_closure1_closure2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/databasemigration/MigrationRunner.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/databasemigration/MigrationUtils$_getDataSourceConfigs_closure3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/databasemigration/MigrationUtils$_getDatabase_closure1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/databasemigration/MigrationUtils$_getDatabases_closure2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/databasemigration/MigrationUtils$_removeIgnoredObjects_closure10.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/databasemigration/MigrationUtils$_removeIgnoredObjects_closure11.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/databasemigration/MigrationUtils$_removeIgnoredObjects_closure12.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/databasemigration/MigrationUtils$_removeIgnoredObjects_closure13.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/databasemigration/MigrationUtils$_removeIgnoredObjects_closure14.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/databasemigration/MigrationUtils$_removeIgnoredObjects_closure15.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/databasemigration/MigrationUtils$_removeIgnoredObjects_closure16.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/databasemigration/MigrationUtils$_removeIgnoredObjects_closure17.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/databasemigration/MigrationUtils$_removeIgnoredObjects_closure18.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/databasemigration/MigrationUtils$_removeIgnoredObjects_closure18_closure20.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/databasemigration/MigrationUtils$_removeIgnoredObjects_closure19.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/databasemigration/MigrationUtils$_removeIgnoredObjects_closure4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/databasemigration/MigrationUtils$_removeIgnoredObjects_closure5.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/databasemigration/MigrationUtils$_removeIgnoredObjects_closure6.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/databasemigration/MigrationUtils$_removeIgnoredObjects_closure7.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/databasemigration/MigrationUtils$_removeIgnoredObjects_closure8.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/databasemigration/MigrationUtils$_removeIgnoredObjects_closure9.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/databasemigration/MigrationUtils.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/databasemigration/MySQLCompatibleChangeLogSerializer$_hasForeignKeyConstraintChange_closure1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/databasemigration/MySQLCompatibleChangeLogSerializer.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/databasemigration/MysqlAwareCreateTableGenerator.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/databasemigration/NoopVisitor.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/databasemigration/ScriptUtils$_appendToChangelog_closure2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/databasemigration/ScriptUtils$_appendToChangelog_closure2_closure4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/databasemigration/ScriptUtils$_appendToChangelog_closure2_closure5.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/databasemigration/ScriptUtils$_executeAndWrite_closure1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/databasemigration/ScriptUtils$_generatePreviousChangesetSql_closure3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/databasemigration/ScriptUtils.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/databasemigration/Slf4jLogger.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/databasemigration/dbdoc/AuthorListWriter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/databasemigration/dbdoc/AuthorWriter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/databasemigration/dbdoc/ChangeLogListWriter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/databasemigration/dbdoc/ChangeLogWriter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/databasemigration/dbdoc/ColumnWriter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/databasemigration/dbdoc/HTMLListWriter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/databasemigration/dbdoc/HTMLWriter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/databasemigration/dbdoc/MemoryDocVisitor.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/databasemigration/dbdoc/PendingChangesWriter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/databasemigration/dbdoc/PendingSQLWriter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/databasemigration/dbdoc/RecentChangesWriter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/databasemigration/dbdoc/TableListWriter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/databasemigration/dbdoc/TableWriter$_writeCustomHTML_closure1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/databasemigration/dbdoc/TableWriter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/executor/PersistenceContextCallableWrapper$_call_closure1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/executor/PersistenceContextCallableWrapper.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/executor/PersistenceContextExecutorWrapper.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/executor/PersistenceContextRunnableWrapper$_run_closure1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/executor/PersistenceContextRunnableWrapper.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/executor/PersistenceContextWrapper.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/hibernate3/HibernatePluginSupport$__clinit__closure1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/hibernate3/HibernatePluginSupport$__clinit__closure1_closure10.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/hibernate3/HibernatePluginSupport$__clinit__closure1_closure11.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/hibernate3/HibernatePluginSupport$__clinit__closure1_closure12.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/hibernate3/HibernatePluginSupport$__clinit__closure1_closure4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/hibernate3/HibernatePluginSupport$__clinit__closure1_closure5.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/hibernate3/HibernatePluginSupport$__clinit__closure1_closure6.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/hibernate3/HibernatePluginSupport$__clinit__closure1_closure7.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/hibernate3/HibernatePluginSupport$__clinit__closure1_closure8.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/hibernate3/HibernatePluginSupport$__clinit__closure1_closure9.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/hibernate3/HibernatePluginSupport$__clinit__closure1_closure9_closure13.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/hibernate3/HibernatePluginSupport$__clinit__closure2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/hibernate3/HibernatePluginSupport$__clinit__closure2_closure14.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/hibernate3/HibernatePluginSupport$__clinit__closure2_closure14_closure16.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/hibernate3/HibernatePluginSupport$__clinit__closure2_closure14_closure16_closure18.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/hibernate3/HibernatePluginSupport$__clinit__closure2_closure14_closure17.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/hibernate3/HibernatePluginSupport$__clinit__closure2_closure15.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/hibernate3/HibernatePluginSupport$__clinit__closure2_closure15_closure19.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/hibernate3/HibernatePluginSupport$__clinit__closure3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/hibernate3/HibernatePluginSupport.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/webxml/FilterManager.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/imexporter/AbstractImexporter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/org/codehaus/groovy/grails/plugins/jquery/JQueryConfig$_init_closure1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/org/codehaus/groovy/grails/plugins/jquery/JQueryConfig$_init_closure2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/org/codehaus/groovy/grails/plugins/jquery/JQueryConfig.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/org/codehaus/groovy/grails/plugins/jquery/JQueryProvider$_doRemoteFunction_closure1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/org/codehaus/groovy/grails/plugins/jquery/JQueryProvider$_doRemoteFunction_closure2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/org/codehaus/groovy/grails/plugins/jquery/JQueryProvider$_doRemoteFunction_closure3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/org/codehaus/groovy/grails/plugins/jquery/JQueryProvider$_doRemoteFunction_closure4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/org/codehaus/groovy/grails/plugins/jquery/JQueryProvider.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/org/codehaus/groovy/grails/scaffolding/AbstractGrailsTemplateGenerator.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/org/codehaus/groovy/grails/scaffolding/DefaultGrailsTemplateGenerator$_closure1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/org/codehaus/groovy/grails/scaffolding/DefaultGrailsTemplateGenerator.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/org/codehaus/groovy/grails/scaffolding/DomainClassPropertyComparator.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/org/codehaus/groovy/grails/scaffolding/GrailsTemplateGenerator.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/org/codehaus/groovy/grails/scaffolding/SimpleDomainClassPropertyComparator.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/org/codehaus/groovy/grails/scaffolding/view/ScaffoldedGroovyPageView.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/org/codehaus/groovy/grails/scaffolding/view/ScaffoldingViewResolver.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/org/grails/plugin/resource/AggregatedResourceMeta$_buildAggregateResource_closure3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/org/grails/plugin/resource/AggregatedResourceMeta$_buildAggregateResource_closure3_closure4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/org/grails/plugin/resource/AggregatedResourceMeta$_containsResource_closure1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/org/grails/plugin/resource/AggregatedResourceMeta$_isDirty_closure2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/org/grails/plugin/resource/AggregatedResourceMeta.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/org/grails/plugin/resource/BaseUrlResourceMapper$_verifySameBaseUrlForAllModulesInBundle_closure1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/org/grails/plugin/resource/BaseUrlResourceMapper.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/org/grails/plugin/resource/BundleResourceMapper.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/org/grails/plugin/resource/CSSBundleResourceMeta.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/org/grails/plugin/resource/CSSLinkProcessor$_process_closure1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/org/grails/plugin/resource/CSSLinkProcessor.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/org/grails/plugin/resource/CSSPreprocessorResourceMapper$_map_closure1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/org/grails/plugin/resource/CSSPreprocessorResourceMapper.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/org/grails/plugin/resource/CSSRewriterResourceMapper$_map_closure1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/org/grails/plugin/resource/CSSRewriterResourceMapper$_map_closure1_closure2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/org/grails/plugin/resource/CSSRewriterResourceMapper.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/org/grails/plugin/resource/DevModeSanityFilter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/org/grails/plugin/resource/JavaScriptBundleResourceMeta.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/org/grails/plugin/resource/ProcessingFilter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/org/grails/plugin/resource/ResourceMeta$_reset_closure1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/org/grails/plugin/resource/ResourceMeta.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/org/grails/plugin/resource/ResourceModule$_closure1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/org/grails/plugin/resource/ResourceModule$_getRequiredDispositions_closure3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/org/grails/plugin/resource/ResourceModule$_newResourceFromArgs_closure2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/org/grails/plugin/resource/ResourceModule.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/org/grails/plugin/resource/ResourceProcessor$_addModuleDispositionsToRequest_closure23.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/org/grails/plugin/resource/ResourceProcessor$_afterPropertiesSet_closure1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/org/grails/plugin/resource/ResourceProcessor$_afterPropertiesSet_closure2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/org/grails/plugin/resource/ResourceProcessor$_canProcessLegacyResource_closure8.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/org/grails/plugin/resource/ResourceProcessor$_canProcessLegacyResource_closure9.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/org/grails/plugin/resource/ResourceProcessor$_defineModuleFromBuilder_closure17.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/org/grails/plugin/resource/ResourceProcessor$_dumpResources_closure21.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/org/grails/plugin/resource/ResourceProcessor$_dumpResources_closure21_closure36.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/org/grails/plugin/resource/ResourceProcessor$_dumpResources_closure21_closure37.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/org/grails/plugin/resource/ResourceProcessor$_dumpResources_closure22.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/org/grails/plugin/resource/ResourceProcessor$_findSyntheticResourceById_closure10.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/org/grails/plugin/resource/ResourceProcessor$_getConfigParamOrDefault_closure3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/org/grails/plugin/resource/ResourceProcessor$_getResourceMetaForURI_closure11.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/org/grails/plugin/resource/ResourceProcessor$_getResourceMetaForURI_closure11_closure28.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/org/grails/plugin/resource/ResourceProcessor$_getServletContext_closure24.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/org/grails/plugin/resource/ResourceProcessor$_loadModules_closure18.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/org/grails/plugin/resource/ResourceProcessor$_loadModules_closure18_closure31.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/org/grails/plugin/resource/ResourceProcessor$_loadModules_closure19.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/org/grails/plugin/resource/ResourceProcessor$_loadModules_closure19_closure32.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/org/grails/plugin/resource/ResourceProcessor$_loadModules_closure19_closure33.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/org/grails/plugin/resource/ResourceProcessor$_loadModules_closure19_closure33_closure34.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/org/grails/plugin/resource/ResourceProcessor$_loadModules_closure19_closure33_closure35.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/org/grails/plugin/resource/ResourceProcessor$_loadModules_closure20.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/org/grails/plugin/resource/ResourceProcessor$_makeFileSystemPathFromURI_closure12.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/org/grails/plugin/resource/ResourceProcessor$_prepareResourceBatch_closure14.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/org/grails/plugin/resource/ResourceProcessor$_prepareResourceBatch_closure15.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/org/grails/plugin/resource/ResourceProcessor$_prepareResourceBatch_closure15_closure29.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/org/grails/plugin/resource/ResourceProcessor$_prepareResourceBatch_closure15_closure30.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/org/grails/plugin/resource/ResourceProcessor$_prepareResourceBatch_closure16.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/org/grails/plugin/resource/ResourceProcessor$_prepareSingleDeclaredResource_closure13.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/org/grails/plugin/resource/ResourceProcessor$_updateDependencyOrder_closure4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/org/grails/plugin/resource/ResourceProcessor$_updateDependencyOrder_closure5.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/org/grails/plugin/resource/ResourceProcessor$_updateDependencyOrder_closure6.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/org/grails/plugin/resource/ResourceProcessor$_updateDependencyOrder_closure6_closure25.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/org/grails/plugin/resource/ResourceProcessor$_updateDependencyOrder_closure7.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/org/grails/plugin/resource/ResourceProcessor$_updateDependencyOrder_closure7_closure26.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/org/grails/plugin/resource/ResourceProcessor$_updateDependencyOrder_closure7_closure26_closure27.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/org/grails/plugin/resource/ResourceProcessor.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/org/grails/plugin/resource/ResourceProcessorBatch.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/org/grails/plugin/resource/ResourceTagLib$__clinit__closure15.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/org/grails/plugin/resource/ResourceTagLib$__clinit__closure16.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/org/grails/plugin/resource/ResourceTagLib$__clinit__closure17.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/org/grails/plugin/resource/ResourceTagLib$__clinit__closure18.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/org/grails/plugin/resource/ResourceTagLib$_closure1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/org/grails/plugin/resource/ResourceTagLib$_closure10.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/org/grails/plugin/resource/ResourceTagLib$_closure11.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/org/grails/plugin/resource/ResourceTagLib$_closure12.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/org/grails/plugin/resource/ResourceTagLib$_closure12_closure21.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/org/grails/plugin/resource/ResourceTagLib$_closure1_closure19.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/org/grails/plugin/resource/ResourceTagLib$_closure2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/org/grails/plugin/resource/ResourceTagLib$_closure3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/org/grails/plugin/resource/ResourceTagLib$_closure4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/org/grails/plugin/resource/ResourceTagLib$_closure5.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/org/grails/plugin/resource/ResourceTagLib$_closure5_closure20.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/org/grails/plugin/resource/ResourceTagLib$_closure6.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/org/grails/plugin/resource/ResourceTagLib$_closure7.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/org/grails/plugin/resource/ResourceTagLib$_closure8.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/org/grails/plugin/resource/ResourceTagLib$_closure9.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/org/grails/plugin/resource/ResourceTagLib$_resolveLinkUriToUriAndResource_closure14.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/org/grails/plugin/resource/ResourceTagLib$_writeAttrs_closure13.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/org/grails/plugin/resource/ResourceTagLib.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/org/grails/plugin/resource/URLUtils.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/org/grails/plugin/resource/mapper/MapperPhase.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/org/grails/plugin/resource/mapper/ResourceMapper$_closure1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/org/grails/plugin/resource/mapper/ResourceMapper$_getDefaultExcludes_closure8.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/org/grails/plugin/resource/mapper/ResourceMapper$_getDefaultIncludes_closure9.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/org/grails/plugin/resource/mapper/ResourceMapper$_getExcludes_closure10.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/org/grails/plugin/resource/mapper/ResourceMapper$_getExcludingPattern_closure2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/org/grails/plugin/resource/mapper/ResourceMapper$_getIncludes_closure11.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/org/grails/plugin/resource/mapper/ResourceMapper$_getIncludingPattern_closure3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/org/grails/plugin/resource/mapper/ResourceMapper$_getName_closure7.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/org/grails/plugin/resource/mapper/ResourceMapper$_getOperation_closure5.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/org/grails/plugin/resource/mapper/ResourceMapper$_getPhase_closure4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/org/grails/plugin/resource/mapper/ResourceMapper$_getPriority_closure6.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/org/grails/plugin/resource/mapper/ResourceMapper.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/org/grails/plugin/resource/mapper/ResourceMappersFactory$_createResourceMappers_closure1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/org/grails/plugin/resource/mapper/ResourceMappersFactory$_createResourceMappers_closure2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/org/grails/plugin/resource/mapper/ResourceMappersFactory$_createResourceMappers_closure2_closure7.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/org/grails/plugin/resource/mapper/ResourceMappersFactory$_createResourceMappers_closure3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/org/grails/plugin/resource/mapper/ResourceMappersFactory$_createResourceMappers_closure4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/org/grails/plugin/resource/mapper/ResourceMappersFactory$_createResourceMappers_closure5.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/org/grails/plugin/resource/mapper/ResourceMappersFactory$_createResourceMappers_closure6.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/org/grails/plugin/resource/mapper/ResourceMappersFactory.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/org/grails/plugin/resource/module/ModuleBuilder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/org/grails/plugin/resource/module/ModuleDeclarationsFactory$_getModuleDeclarations_closure1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/org/grails/plugin/resource/module/ModuleDeclarationsFactory$_getModuleDeclarations_closure2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/org/grails/plugin/resource/module/ModuleDeclarationsFactory$_getModuleDeclarations_closure3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/org/grails/plugin/resource/module/ModuleDeclarationsFactory.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/org/grails/plugin/resource/module/ModulesBuilder$_invokeMethod_closure1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/org/grails/plugin/resource/module/ModulesBuilder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/org/grails/plugin/resource/util/DispositionsUtils.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/org/grails/plugin/resource/util/HalfBakedLegacyLinkGenerator.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/org/grails/plugin/resource/util/ResourceMetaStore$_addResource_closure1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/org/grails/plugin/resource/util/ResourceMetaStore.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/org/grails/plugin/resource/util/StatsManager$_dumpStats_closure1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/org/grails/plugin/resource/util/StatsManager$_dumpStats_closure1_closure2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/org/grails/plugin/resource/util/StatsManager.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/org/grails/plugin/resources/artefacts/AbstractResourcesArtefactHandler.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/org/grails/plugin/resources/artefacts/DefaultResourceMapperClass.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/org/grails/plugin/resources/artefacts/DefaultResourcesClass.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/org/grails/plugin/resources/artefacts/ResourceMapperArtefactHandler.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/org/grails/plugin/resources/artefacts/ResourceMapperClass.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/org/grails/plugin/resources/artefacts/ResourcesArtefactHandler.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/org/grails/plugin/resources/artefacts/ResourcesClass.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/org/grails/plugins/excelimport/AbstractCsvImporter$_getData_closure2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/org/grails/plugins/excelimport/AbstractCsvImporter$_getData_closure2_closure4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/org/grails/plugins/excelimport/AbstractCsvImporter$_read_closure1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/org/grails/plugins/excelimport/AbstractCsvImporter$_trivialColumnMapFromExcel_closure3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/org/grails/plugins/excelimport/AbstractCsvImporter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/org/grails/plugins/excelimport/AbstractExcelImporter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/org/grails/plugins/excelimport/DefaultImportCellCollector$_checkReportRow_closure2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/org/grails/plugins/excelimport/DefaultImportCellCollector$_checkReportRow_closure3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/org/grails/plugins/excelimport/DefaultImportCellCollector$_checkReportRow_closure4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/org/grails/plugins/excelimport/DefaultImportCellCollector$_checkReportValue_closure5.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/org/grails/plugins/excelimport/DefaultImportCellCollector$_checkReportValue_closure6.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/org/grails/plugins/excelimport/DefaultImportCellCollector$_checkReportValue_closure7.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/org/grails/plugins/excelimport/DefaultImportCellCollector$_closure1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/org/grails/plugins/excelimport/DefaultImportCellCollector.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/org/grails/plugins/excelimport/ExcelImportService$_convertColumnMapOneRow_closure3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/org/grails/plugins/excelimport/ExcelImportService$_convertFromCellMapToMapWithValues_closure5.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/org/grails/plugins/excelimport/ExcelImportService$_convertManyRowsToColumnMap_closure2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/org/grails/plugins/excelimport/ExcelImportService$_convertMapWithValuesToCellMap_closure6.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/org/grails/plugins/excelimport/ExcelImportService$_convertOneRowToColumnMap_closure4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/org/grails/plugins/excelimport/ExcelImportService$_setCellValue_closure7.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/org/grails/plugins/excelimport/ExcelImportService$_setCellValue_closure8.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/org/grails/plugins/excelimport/ExcelImportService$_setCellValue_closure9.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/org/grails/plugins/excelimport/ExcelImportService$_verticalValues_closure1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/org/grails/plugins/excelimport/ExcelImportService.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/org/grails/plugins/excelimport/ExpectedPropertyType.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/org/grails/plugins/excelimport/HorizontalExcelImporter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/org/grails/plugins/excelimport/ImportCellCollector.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/org/grails/plugins/excelimport/ImportSeverityLevelEnum.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/org/grails/plugins/excelimport/ImportSeverityMappingEnum$__clinit__closure1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/org/grails/plugins/excelimport/ImportSeverityMappingEnum$__clinit__closure2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/org/grails/plugins/excelimport/ImportSeverityMappingEnum$__clinit__closure3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/org/grails/plugins/excelimport/ImportSeverityMappingEnum$__clinit__closure4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/org/grails/plugins/excelimport/ImportSeverityMappingEnum$__clinit__closure5.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/org/grails/plugins/excelimport/ImportSeverityMappingEnum.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/org/grails/plugins/excelimport/NoopImportCellCollector.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/pl/touk/excel/export/Formatters$_convertSafelyFromGetters_closure2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/pl/touk/excel/export/Formatters$_convertSafelyToGetters_closure1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/pl/touk/excel/export/Formatters.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/pl/touk/excel/export/WebXlsxExporter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/pl/touk/excel/export/XlsxExporter$_copy_closure1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/pl/touk/excel/export/XlsxExporter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/pl/touk/excel/export/abilities/CellManipulationAbility.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/pl/touk/excel/export/abilities/FileManipulationAbility$_save_closure1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/pl/touk/excel/export/abilities/FileManipulationAbility.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/pl/touk/excel/export/abilities/RowManipulationAbility$_add_closure2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/pl/touk/excel/export/abilities/RowManipulationAbility$_fillRowWithValues_closure1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/pl/touk/excel/export/abilities/RowManipulationAbility$_getPropertiesFromObject_closure3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/pl/touk/excel/export/abilities/RowManipulationAbility$_verifyPropertyTypeCanBeHandled_closure4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/pl/touk/excel/export/abilities/RowManipulationAbility.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/pl/touk/excel/export/getters/AsIsPropertyGetter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/pl/touk/excel/export/getters/Getter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/pl/touk/excel/export/getters/LongToDatePropertyGetter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/pl/touk/excel/export/getters/MessageFromPropertyGetter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/pl/touk/excel/export/getters/PropertyGetter$_getValueFromChildren_closure1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/plugin-classes/pl/touk/excel/export/getters/PropertyGetter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/resources/grails-app/i18n/messages.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/resources/grails-app/i18n/messages_cs_CZ.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/resources/grails-app/i18n/messages_da.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/resources/grails-app/i18n/messages_de.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/resources/grails-app/i18n/messages_es.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/resources/grails-app/i18n/messages_fr.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/resources/grails-app/i18n/messages_it.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/resources/grails-app/i18n/messages_ja.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/resources/grails-app/i18n/messages_nb.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/resources/grails-app/i18n/messages_nl.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/resources/grails-app/i18n/messages_pl.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/resources/grails-app/i18n/messages_pt_BR.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/resources/grails-app/i18n/messages_pt_PT.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/resources/grails-app/i18n/messages_ru.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/resources/grails-app/i18n/messages_sv.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/resources/grails-app/i18n/messages_th.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/resources/grails-app/i18n/messages_zh_CN.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/resources/hibernate.cfg.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/resources/org/grails/plugins/excelimport/.AbstractCsvImporter.groovy.swp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/resources/org/grails/plugins/excelimport/.AbstractExcelImporter.groovy.swp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/resources/plugins/excel-export-0.1.7/grails-app/i18n/messages.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/resources/plugins/excel-import-1.0.0/grails-app/i18n/messages.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/resources/plugins/hibernate-3.6.10.3/grails-app/i18n/messages.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/resources/plugins/resources-1.2.1/grails-app/i18n/messages.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/resources/web.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/scriptCache/_GrailsArgParsing_groovy$_run_closure1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/scriptCache/_GrailsArgParsing_groovy.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/scriptCache/_GrailsClasspath_groovy$_run_closure1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/scriptCache/_GrailsClean_groovy$_run_closure1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/scriptCache/_GrailsClean_groovy$_run_closure2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/scriptCache/_GrailsClean_groovy$_run_closure3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/scriptCache/_GrailsClean_groovy$_run_closure4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/scriptCache/_GrailsClean_groovy$_run_closure5.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/scriptCache/_GrailsClean_groovy$_run_closure6.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/scriptCache/_GrailsClean_groovy.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/scriptCache/_GrailsCompile_groovy$_run_closure1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/scriptCache/_GrailsCompile_groovy$_run_closure2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/scriptCache/_GrailsCompile_groovy$_run_closure2_closure6.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/scriptCache/_GrailsCompile_groovy$_run_closure2_closure6_closure7.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/scriptCache/_GrailsCompile_groovy$_run_closure3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/scriptCache/_GrailsCompile_groovy$_run_closure3_closure8.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/scriptCache/_GrailsCompile_groovy$_run_closure3_closure8_closure9.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/scriptCache/_GrailsCompile_groovy$_run_closure4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/scriptCache/_GrailsCompile_groovy$_run_closure5.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/scriptCache/_GrailsCompile_groovy.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/scriptCache/_GrailsEvents_groovy$_run_closure1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/scriptCache/_GrailsEvents_groovy$_run_closure2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/scriptCache/_GrailsEvents_groovy$_run_closure3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/scriptCache/_GrailsEvents_groovy$_run_closure4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/scriptCache/_GrailsEvents_groovy$_run_closure5.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/scriptCache/_GrailsEvents_groovy.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/scriptCache/_GrailsInit_groovy$_run_closure1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/scriptCache/_GrailsInit_groovy$_run_closure1_closure6.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/scriptCache/_GrailsInit_groovy$_run_closure2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/scriptCache/_GrailsInit_groovy$_run_closure3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/scriptCache/_GrailsInit_groovy$_run_closure4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/scriptCache/_GrailsInit_groovy$_run_closure5.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/scriptCache/_GrailsInit_groovy.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/scriptCache/_GrailsPackage_groovy$_run_closure1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/scriptCache/_GrailsPackage_groovy$_run_closure2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/scriptCache/_GrailsPackage_groovy$_run_closure2_closure8.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/scriptCache/_GrailsPackage_groovy$_run_closure3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/scriptCache/_GrailsPackage_groovy$_run_closure4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/scriptCache/_GrailsPackage_groovy$_run_closure5.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/scriptCache/_GrailsPackage_groovy$_run_closure6.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/scriptCache/_GrailsPackage_groovy$_run_closure7.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/scriptCache/_GrailsPackage_groovy.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/scriptCache/_GrailsProxy_groovy$_run_closure1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/scriptCache/_GrailsProxy_groovy.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/scriptCache/_GrailsRun_groovy$_run_closure1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/scriptCache/_GrailsRun_groovy$_run_closure2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/scriptCache/_GrailsRun_groovy$_run_closure3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/scriptCache/_GrailsRun_groovy$_run_closure4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/scriptCache/_GrailsRun_groovy$_run_closure5.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/scriptCache/_GrailsRun_groovy$_run_closure5_closure10.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/scriptCache/_GrailsRun_groovy$_run_closure6.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/scriptCache/_GrailsRun_groovy$_run_closure7.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/scriptCache/_GrailsRun_groovy$_run_closure7_closure11.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/scriptCache/_GrailsRun_groovy$_run_closure8.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/scriptCache/_GrailsRun_groovy$_run_closure9.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/scriptCache/_GrailsRun_groovy.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/scriptCache/_GrailsSettings_groovy$_run_closure1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/scriptCache/_GrailsSettings_groovy$_run_closure2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/scriptCache/_GrailsSettings_groovy$_run_closure3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/scriptCache/_GrailsSettings_groovy$_run_closure3_closure4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/scriptCache/_GrailsSettings_groovy$_run_closure3_closure5.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/scriptCache/_GrailsSettings_groovy$_run_closure3_closure5_closure6.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/scriptCache/_GrailsSettings_groovy.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/scriptCache/_GrailsWar_groovy$_run_closure1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/scriptCache/_GrailsWar_groovy$_run_closure2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/scriptCache/_GrailsWar_groovy$_run_closure3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/scriptCache/_GrailsWar_groovy$_run_closure4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/scriptCache/_GrailsWar_groovy$_run_closure5.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/scriptCache/_GrailsWar_groovy$_run_closure6.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/scriptCache/_GrailsWar_groovy.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/scriptCache/_PackagePlugins_groovy$_run_closure1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/scriptCache/_PackagePlugins_groovy$_run_closure2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/scriptCache/_PackagePlugins_groovy$_run_closure3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/scriptCache/_PackagePlugins_groovy.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/scriptCache/_PluginDependencies_groovy$_createPluginInstallEngine_closure4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/scriptCache/_PluginDependencies_groovy$_createPluginInstallEngine_closure5.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/scriptCache/_PluginDependencies_groovy$_createPluginInstallEngine_closure6.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/scriptCache/_PluginDependencies_groovy$_createPluginInstallEngine_closure7.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/scriptCache/_PluginDependencies_groovy$_run_closure1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/scriptCache/_PluginDependencies_groovy$_run_closure2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/scriptCache/_PluginDependencies_groovy$_run_closure3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/work/scriptCache/_PluginDependencies_groovy.class" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/conf/BuildConfig.groovy" afterPath="$PROJECT_DIR$/grails-app/conf/BuildConfig.groovy" />
     </list>
     <ignored path="tradeproj.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -778,13 +26,13 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="BuildConfig.groovy" pinned="false" current-in-tab="false">
+      <file leaf-file-name="BuildConfig.groovy" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/grails-app/conf/BuildConfig.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="1" column="8" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="8" />
+            <state vertical-scroll-proportion="0.33076924">
+              <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
               <folding>
-                <marker date="1514518022450" expanded="true" signature="454:736" placeholder="..." />
+                <marker date="1514654146794" expanded="true" signature="454:736" placeholder="..." />
               </folding>
             </state>
           </provider>
@@ -800,11 +48,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.23529412">
+            <state vertical-scroll-proportion="0.0">
               <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="application.properties" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -871,7 +129,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/grails-app/conf/BuildConfig.groovy" />
         <option value="$PROJECT_DIR$/grails-app/views/admin/index.gsp" />
         <option value="$PROJECT_DIR$/src/groovy/Trade.groovy" />
         <option value="$PROJECT_DIR$/src/groovy/tradeproj/Trade.groovy" />
@@ -879,6 +136,7 @@
         <option value="$PROJECT_DIR$/grails-app/views/admin/trade.gsp" />
         <option value="$PROJECT_DIR$/grails-app/controllers/tradeproj/AdminController.groovy" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/grails-app/conf/BuildConfig.groovy" />
       </list>
     </option>
   </component>
@@ -990,6 +248,24 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="grails-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tradeproj" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tradeproj" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="grails-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="conf" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1404,12 +680,12 @@
       <updated>1514491276239</updated>
       <workItem from="1514491279411" duration="115000" />
       <workItem from="1514491577505" duration="29763000" />
-      <workItem from="1514559200276" duration="10069000" />
+      <workItem from="1514559200276" duration="11422000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39947000" />
+    <option name="totallyTimeSpent" value="41300000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1" y="0" width="1364" height="738" extended-state="0" />
@@ -1569,7 +845,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="1" column="8" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="8" />
           <folding>
-            <marker date="1514518022450" expanded="true" signature="454:736" placeholder="..." />
+            <marker date="1514654146794" expanded="true" signature="454:736" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -1609,16 +885,6 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/conf/BuildConfig.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="1" column="8" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="8" />
-          <folding>
-            <marker date="1514518022450" expanded="true" signature="454:736" placeholder="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1694,9 +960,27 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.23529412">
+        <state vertical-scroll-proportion="0.0">
           <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/conf/BuildConfig.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33076924">
+          <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
+          <folding>
+            <marker date="1514654146794" expanded="true" signature="454:736" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
