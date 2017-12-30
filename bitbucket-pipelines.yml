@@ -4,7 +4,7 @@
 # -----
 # You can specify a custom docker image from Docker Hub as your build environment.
 # image: atlassian/default-image:latest
-image: mozart/grails:2
+image: mozart/grails:2.4.4
 
 pipelines:
   default:
