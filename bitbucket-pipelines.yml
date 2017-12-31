@@ -16,5 +16,8 @@ pipelines:
           - uname -o
           - wget -qO- https://toolbelt.heroku.com/install-ubuntu.sh | sh
           - heroku --version
+          - cd tradeproj 
+          - heroku create
           - heroku buildpacks:set heroku/grails
+          - cd ..
           - git push -f https://heroku:$HEROKU_API_KEY@git.heroku.com/$HEROKU_APP_NAME.git HEAD
