@@ -19,6 +19,8 @@ pipelines:
           - pwd
           - ls
           - heroku git:remote -a $HEROKU_APP_NAME
+          - echo $HEROKU_APP_NAME
+          - heroku buildpacks:set heroku/grails
           - git push -f https://heroku:$HEROKU_API_KEY@git.heroku.com/$HEROKU_APP_NAME.git HEAD
 #          - heroku buildpacks:set heroku/grails
 #          - git push -f https://heroku:$HEROKU_API_KEY@git.heroku.com/$HEROKU_APP_NAME.git HEAD
