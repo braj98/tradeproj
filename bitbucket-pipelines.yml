@@ -13,4 +13,14 @@ pipelines:
           - grails clean
           - grails war
           - apt-get update && apt-get install -y unzip git
+          - uname -o
+          - wget -qO- https://toolbelt.heroku.com/install-ubuntu.sh | sh
+          - heroku --version
+          - pwd
+          - ls
+          - heroku git:remote -a $HEROKU_APP_NAME
+          - echo $HEROKU_APP_NAME
+          - heroku buildpacks:set https://github.com/heroku/heroku-buildpack-grails.git
           - git push -f https://heroku:$HEROKU_API_KEY@git.heroku.com/$HEROKU_APP_NAME.git HEAD
+#          - heroku buildpacks:set heroku/grails
+#          - git push -f https://heroku:$HEROKU_API_KEY@git.heroku.com/$HEROKU_APP_NAME.git HEAD
