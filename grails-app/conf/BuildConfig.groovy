@@ -28,7 +28,7 @@ grails.project.dependency.resolution = {
         // specify dependency exclusions here; for example, uncomment this to disable ehcache:
         // excludes 'ehcache'
     }
-    log "warn" // log level of Ivy resolver, either 'error', 'warn', 'info', 'debug' or 'verbose'
+    log "error" // log level of Ivy resolver, either 'error', 'warn', 'info', 'debug' or 'verbose'
     checksums true // Whether to verify checksums on resolve
     legacyResolve false // whether to do a secondary resolve on plugin installation, not advised and here for backwards compatibility
 
@@ -60,23 +60,24 @@ grails.project.dependency.resolution = {
 
     plugins {
         // plugins for the build system only
-        build ":tomcat:7.0.42"
+        build ':tomcat:7.0.55'
 
         // plugins for the compile step
-        compile ":scaffolding:2.0.1"
-        compile ':cache:1.1.1'
+        compile ':scaffolding:2.1.2'
+        compile ':cache:1.1.8'
+        compile ':asset-pipeline:1.9.9'
         compile (
-                ':excel-import:1.0.0',
+                ":excel-import:2.0.0.BUILD-SNAPSHOT",
                 ':excel-export:0.1.7',
-                ':executor:0.3',
-                ':export:1.3'
+                //':executor:0.3',
+                ':export:1.6'
         )
 
         // plugins needed at runtime but not for compilation
         runtime ":hibernate:3.6.10.3" // or ":hibernate4:4.1.11.2"
         runtime ":database-migration:1.3.8"
-        runtime ":jquery:1.10.2"
-        runtime ":resources:1.2.1"
+        //runtime ":jquery:1.10.2"
+        runtime ":resources:1.2.8"
         // Uncomment these (or add new ones) to enable additional resources capabilities
         //runtime ":zipped-resources:1.0.1"
         //runtime ":cached-resources:1.1"
