@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="74643ccc-f889-4797-9e37-7de45a977dcb" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/runtime.txt" />
-    </list>
+    <list default="true" id="74643ccc-f889-4797-9e37-7de45a977dcb" name="Default" comment="" />
     <ignored path="tradeproj.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/target/eclipseclasses/" />
@@ -706,16 +704,16 @@
       <workItem from="1514491577505" duration="29763000" />
       <workItem from="1514559200276" duration="11422000" />
       <workItem from="1514657277580" duration="1496000" />
-      <workItem from="1514661831880" duration="4771000" />
+      <workItem from="1514661831880" duration="4824000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="47567000" />
+    <option name="totallyTimeSpent" value="47620000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1" y="0" width="1364" height="738" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
