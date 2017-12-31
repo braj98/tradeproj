@@ -15,5 +15,6 @@ pipelines:
           - apt-get update && apt-get install -y unzip git
           - uname -o
           - wget -qO- https://toolbelt.heroku.com/install-ubuntu.sh | sh
+          - heroku --version
           - heroku buildpacks:set heroku/grails
           - git push -f https://heroku:$HEROKU_API_KEY@git.heroku.com/$HEROKU_APP_NAME.git HEAD
