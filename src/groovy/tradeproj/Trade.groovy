@@ -14,10 +14,10 @@ class Trade {
     def type
     int qty
     def rate
-    def orderNo
-    def tradeNo
+    String orderNo
+    String tradeNo
     def comment
-    def avgPrice
+    double avgPrice
     def netQuantity
     def cumBuyPrice
 
